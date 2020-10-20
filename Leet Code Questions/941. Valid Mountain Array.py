@@ -7,8 +7,7 @@
 # A[0] < A[1] < ... A[i-1] < A[i]
 # A[i] > A[i+1] > ... > A[A.length - 1]
 
-
-# Example 1:
+# Examples:
 
 # Input: [2,1]
 # Output: false
@@ -23,7 +22,6 @@
 
 
 # Note:
-
 # 0 <= A.length <= 10000
 # 0 <= A[i] <= 10000
 
